@@ -1,0 +1,7 @@
+::Dependencies::
+
+Dependency from PHP: zlib
+Dependency from Perl: File::Slurp
+
+user: frog
+passwd: samba sapo black

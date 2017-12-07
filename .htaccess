@@ -1,0 +1,5 @@
+Satisfy Any
+# AuthType Basic
+# AuthName "FrogSimula"
+# AuthUserFile /var/www/html/frogsimula/.htpasswd
+# Require valid-user
